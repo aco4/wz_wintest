@@ -3,7 +3,7 @@ setlocal
 
 :: Parameters
 set "WARZONE_EXE=C:\Users\john\warzone2100_win_x64_archive\warzone2100_win_x64_archive\bin\warzone2100.exe"
-set "WARZONE_DIR=C:\Users\john\AppData\Roaming\Warzone 2100 Project\Warzone 2100 naval"
+set "WARZONE_DIR=C:\Users\john\AppData\Roaming\Warzone 2100 Project\Warzone 2100 navalTest"
 set "TEST_FOLDER=%~1\test%2"
 
 :: Derived variables

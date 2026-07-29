@@ -30,5 +30,5 @@ set "WARZONE_DIR=C:\Users\john\AppData\Roaming\Warzone 2100 Project\Warzone 2100
    - e.g. `PS C:\Users\john\wz_wintest>`
 3. Run the first test
    - e.g. `.\test.bat naval 1`
-4. Verify the result by observation (or verify using the mod, if possible)
+4. Verify the result by observation (or with the mod, if possible)
 

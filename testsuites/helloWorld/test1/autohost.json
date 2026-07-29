@@ -1,0 +1,51 @@
+{
+    "locked": {
+        "ai": false,
+        "alliances": false,
+        "bases": false,
+        "cheats": false,
+        "difficulty": false,
+        "name": false,
+        "position": false,
+        "power": false,
+        "readybeforefull": false,
+        "scavengers": false,
+        "spectators": false,
+        "teams": true
+    },
+    "challenge": {
+        "alliances": 0,
+        "bases": 2,
+        "map": "wz_wintest",
+        "maxPlayers": 4,
+        "name": "My Game",
+        "openSpectatorSlots": 10,
+        "powerLevel": 2,
+        "scavengers": 0,
+        "spectatorHost": false,
+        "techLevel": 1,
+        "version": 2
+    },
+    "player_0": {
+        "position": 0,
+        "team": 0
+    },
+    "player_1": {
+        "position": 1,
+        "team": 1
+    },
+    "player_2": {
+        "position": 2,
+        "team": 1,
+        "name": "noAI",
+        "ai": "noAI.js",
+        "difficulty": "Medium"
+    },
+    "player_3": {
+        "position": 3,
+        "team": 1,
+        "name": "noAI",
+        "ai": "noAI.js",
+        "difficulty": "Hard"
+    }
+}

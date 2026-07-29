@@ -1,0 +1,6 @@
+{
+    "name": "wz_wintest",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona"
+}

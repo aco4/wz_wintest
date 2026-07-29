@@ -4,9 +4,9 @@ setlocal
 :: Parameters
 set "WARZONE_EXE=C:\Users\john\warzone2100_win_x64_archive\warzone2100_win_x64_archive\bin\warzone2100.exe"
 set "WARZONE_DIR=C:\Users\john\AppData\Roaming\Warzone 2100 Project\Warzone 2100 navalTest"
-set "TEST_FOLDER=%~1\test%2"
 
 :: Derived variables
+set "TEST_FOLDER=%~1\test%2"
 set "MOD_SOURCE=%~dp0testsuites\%TEST_FOLDER%\mod\*"
 set "MAP_SOURCE=%~dp0testsuites\%TEST_FOLDER%\map\*"
 set "AUTOHOST_FILE=%~dp0testsuites\%TEST_FOLDER%\autohost.json"
